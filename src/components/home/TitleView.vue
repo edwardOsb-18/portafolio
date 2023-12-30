@@ -27,7 +27,7 @@ gap: 1.5rem;
 
 }
   .titulo__nombre{
-font-size: 2rem;
+font-size: 1.3rem;
 font-family: 'Archivo Black', sans-serif;
 color: #ffffffdb;
 

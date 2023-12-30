@@ -60,7 +60,7 @@ width:30%;
 border-radius:5%
 }
 
-h2{font-size: 2rem;
+h2{font-size: 1.2rem;
 
     font-family: 'Archivo Black', sans-serif;
 color: #ffffffdb;

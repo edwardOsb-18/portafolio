@@ -15,7 +15,7 @@
         list-style: none;
     display: flex;
     justify-content: space-evenly;
-    padding: 2rem 2rem 4rem 2rem;
+    padding:2rem 3rem 4rem 3rem;
     flex-direction: column;
     gap: 0.5rem;
 

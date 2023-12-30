@@ -166,7 +166,7 @@
 
    }
    h2{
-    font-size: 2rem;font-family: 'Archivo Black', sans-serif;
+    font-size: 1.2rem;font-family: 'Archivo Black', sans-serif;
 color: #ffffffdb;
    }
 
@@ -175,7 +175,7 @@ color: #ffffffdb;
    }
    h3{color: #5bbbbb;
    margin-bottom: 1rem;
-   font-size: 1.1rem;}
+   font-size: 1rem;}
 
    .proyectos__echos{
     background: black;
@@ -213,6 +213,8 @@ a{
 .mb-10{
     margin-left: 1.8rem;
 }
+h3{
+   font-size: 1.2rem;}
 }
     </style>
     
