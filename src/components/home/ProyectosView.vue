@@ -166,7 +166,7 @@
 
    }
    h2{
-    font-size: 1.2rem;font-family: 'Archivo Black', sans-serif;
+    font-size: 1.4rem;font-family: 'Archivo Black', sans-serif;
 color: #ffffffdb;
    }
 

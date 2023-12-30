@@ -9,7 +9,7 @@
        
        <style scoped>
         #sobre{
-          scroll-margin-top: 10rem;
+          scroll-margin-top: 11.5rem;
         }
       .descripcion{
         color: rgba(255, 255, 255, 0.849);

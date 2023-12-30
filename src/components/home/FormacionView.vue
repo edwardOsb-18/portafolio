@@ -61,7 +61,7 @@
     align-items: center;
 
 }
-h2{font-size: 2rem;
+h2{font-size: 1.4rem;
 
     font-family: 'Archivo Black', sans-serif;
 color: #ffffffdb;}
