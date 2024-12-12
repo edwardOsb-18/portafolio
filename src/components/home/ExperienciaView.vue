@@ -86,10 +86,20 @@ h2{
   
   <script setup >
   import { reactive } from "vue";
-const experiencias =reactive([{titulo:"BALKANED",
-tiempo:"01 de Agosto ,2022 hasta 30 de Junio,2023",
-trabajo:"Desarrollador Front end con Vue",
-imagen:"/img/balkaned.jpg"
+const experiencias =reactive([
+
+
+
+{titulo:"MÉDICOS SALUD",
+tiempo:"08 de Enero ,2020 hasta 08 de Abril,2020",
+trabajo:"Soporte técnico",
+imagen:"/img/medicos.png"
+
+},
+{titulo:"NEON HOUSE LED",
+tiempo:"20 de Diciembre ,2020 hasta 20 de Marzo,2021",
+trabajo:"Practicante de desarrollador Junior",
+imagen:"/img/neon.jpg"
 
 },
 {titulo:"SYNLAB",
@@ -98,19 +108,14 @@ trabajo:"Auxiliar de tecnología de la información",
 imagen:"/img/synlab.jpg"
 
 },
+{titulo:"BALKANED",
+tiempo:"01 de Agosto ,2022 hasta 30 de Junio,2023",
+trabajo:"Desarrollador Front end con Vue",
+imagen:"/img/balkaned.jpg"
 
+}
 
-{titulo:"NEON HOUSE LED",
-tiempo:"20 de Diciembre ,2020 hasta 20 de Marzo,2021",
-trabajo:"Practicante de desarrollador Junior",
-imagen:"/img/neon.jpg"
-
-},{titulo:"MÉDICOS SALUD",
-tiempo:"08 de Enero ,2020 hasta 08 de Abril,2020",
-trabajo:"Soporte técnico",
-imagen:"/img/medicos.png"
-
-},]
+]
 
 )
   

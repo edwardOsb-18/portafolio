@@ -10,7 +10,7 @@
 
 
             <div class="proyectos__echos">
-            <h3 class="proyectos__encabezado"><a  target="_blank" href="https://edwardosb-18.github.io/tami_m/index.html">TAMI</a></h3>
+            <h3 class="proyectos__encabezado"><a  target="_blank" href="https://bait.pe/">BAIT</a></h3>
         <p class="proyectos__descripcion"><v-icon name="co-js" fill="white" scale="2"></v-icon>
             <v-icon name="vi-file-type-css" fill="white" scale="2"></v-icon>
             <v-icon name="vi-file-type-html" fill="white" scale="2"></v-icon>
@@ -19,7 +19,7 @@
             <v-icon name="vi-file-type-sass" fill="white" scale="2"></v-icon>.</p>
 
             <figure>
-<a  target="_blank" href="https://edwardosb-18.github.io/tami_m/index.html"><img src="/img/tami.jpg" alt="TAMI"></a>
+<a  target="_blank" href="https://bait.pe/"><img src="/img/bait.jpeg" alt="BAIT"></a>
 
             </figure>
         </div>
@@ -68,14 +68,14 @@
         </div>
 
         <div class="proyectos__echos">
-            <h3 class="proyectos__encabezado"><a  target="_blank" href=" http://edward-reniec1.000webhostapp.com/">FORMULARIOS</a></h3>
+            <h3 class="proyectos__encabezado"><a  target="_blank" href="https://chekear.com/">CHEKEAR</a></h3>
         <p class="proyectos__descripcion"><v-icon name="co-js" fill="white" scale="2"></v-icon>
            
             <v-icon name="vi-file-type-html" fill="white" scale="2"></v-icon>
             <v-icon name="vi-file-type-php" fill="white" scale="2"></v-icon></p>
 
             <figure>
-<a  target="_blank" href=" http://edward-reniec1.000webhostapp.com/"><img src="/img/form.jpg" alt="SYNLAB"></a>
+<a  target="_blank" href="https://chekear.com/"><img src="/img/chekear.jpeg" alt="chekear"></a>
 
             </figure>
         </div>
@@ -86,7 +86,7 @@
 
  
             <div class="proyectos__echos">
-            <h3 class="proyectos__encabezado"><a  target="_blank" href="https://edwardosb-18.github.io/doomo-saltado/">DOOMO</a></h3>
+            <h3 class="proyectos__encabezado"><a  target="_blank" href="https://menucontrol.pe/">MENU CONTROL</a></h3>
         <p class="proyectos__descripcion"><v-icon name="co-js" fill="white" scale="2"></v-icon>
             <v-icon name="vi-file-type-css" fill="white" scale="2"></v-icon>
             <v-icon name="vi-file-type-html" fill="white" scale="2"></v-icon>
@@ -95,7 +95,7 @@
             <v-icon name="vi-file-type-sass" fill="white" scale="2"></v-icon>.</p>
 
             <figure>
-<a  target="_blank" href="https://edwardosb-18.github.io/doomo-saltado/"><img src="/img/doomo.jpg" alt="SYNLAB"></a>
+<a  target="_blank" href="https://menucontrol.pe/"><img src="/img/control.jpeg" alt="control"></a>
 
             </figure>
         </div>
@@ -124,6 +124,61 @@
 
 
 
+
+
+        <div class="proyectos__echos">
+            <h3 class="proyectos__encabezado"><a  target="_blank" href="https://obras.pe/">CCS</a></h3>
+        <p class="proyectos__descripcion"><v-icon name="co-js" fill="white" scale="2"></v-icon>
+            <v-icon name="vi-file-type-css" fill="white" scale="2"></v-icon>
+            <v-icon name="vi-file-type-html" fill="white" scale="2"></v-icon>
+            <v-icon name="vi-file-type-pug" fill="white" scale="2"></v-icon>
+            
+            <v-icon name="vi-file-type-sass" fill="white" scale="2"></v-icon>.</p>
+
+            <figure>
+<a  target="_blank" href="https://obras.pe/"><img src="/img/ccs.jpeg" alt="ccs"></a>
+
+            </figure>
+        </div>
+
+
+
+
+
+
+        <div class="proyectos__echos">
+            <h3 class="proyectos__encabezado"><a  target="_blank" href="https://somoslidera.com/">SOMOS LIDERA</a></h3>
+        <p class="proyectos__descripcion"><v-icon name="co-js" fill="white" scale="2"></v-icon>
+            <v-icon name="vi-file-type-css" fill="white" scale="2"></v-icon>
+            <v-icon name="vi-file-type-html" fill="white" scale="2"></v-icon>
+            <v-icon name="vi-file-type-pug" fill="white" scale="2"></v-icon>
+            
+            <v-icon name="vi-file-type-sass" fill="white" scale="2"></v-icon>.</p>
+
+            <figure>
+<a  target="_blank" href="https://somoslidera.com/"><img src="/img/lidera.jpeg" alt="ccs"></a>
+
+            </figure>
+        </div>
+
+
+
+
+        <div class="proyectos__echos">
+            <h3 class="proyectos__encabezado"><a  target="_blank" href="https://ubicalo.pe/">UBICALO</a></h3>
+        <p class="proyectos__descripcion"><v-icon name="co-js" fill="white" scale="2"></v-icon>
+            <v-icon name="vi-file-type-css" fill="white" scale="2"></v-icon>
+            <v-icon name="vi-file-type-html" fill="white" scale="2"></v-icon>
+            <v-icon name="vi-file-type-pug" fill="white" scale="2"></v-icon>
+            
+            <v-icon name="vi-file-type-sass" fill="white" scale="2"></v-icon>.</p>
+
+            <figure>
+<a  target="_blank" href="https://ubicalo.pe/"><img src="/img/ubicalo.jpeg" alt="ccs"></a>
+
+            </figure>
+        </div>
+
  
 
 
@@ -131,7 +186,7 @@
 
 
             <div class="proyectos__echos">
-            <h3 class="proyectos__encabezado"><a target="_blank" href="https://neonled-store.com/">NEON LED STORE</a></h3>
+            <h3 class="proyectos__encabezado"><a target="_blank" href="https://nodesk.pe/">NODESK</a></h3>
         <p class="proyectos__descripcion"><v-icon name="co-js" fill="white" scale="2"></v-icon><v-icon name="vi-file-type-php" fill="white" scale="2"></v-icon>
             <v-icon name="vi-file-type-css" fill="white" scale="2"></v-icon>
             <v-icon name="vi-file-type-html" fill="white" scale="2"></v-icon>
@@ -140,7 +195,7 @@
             <v-icon name="vi-file-type-sass" fill="white" scale="2"></v-icon>.</p>
 
             <figure>
-<a target="_blank" href="https://neonled-store.com/"><img src="/img/neonhouseled.jpg" alt="NEON LED STORE"></a>
+<a target="_blank" href="https://nodesk.pe/"><img src="/img/nodesk.jpeg" alt="NODESK"></a>
 
             </figure>
         </div>

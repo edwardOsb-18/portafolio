@@ -103,11 +103,8 @@ h2{
 import { reactive } from "vue";
 
 
-        const formacion=reactive([{
-            tiempo:"Agosto 2020",
-            titulo:"UNIVERSIDAD TECNOLÓGICA DEL PERÚ",
-            descripcion:" Bachiller en Ingeniería de Sistemas e Informática."
-        },
+        const formacion=reactive([
+            
         {
             tiempo:"Febrero 2017",
             titulo:"ICPNA",
@@ -117,7 +114,13 @@ import { reactive } from "vue";
             tiempo:"Enero 2017",
             titulo:"SISTEMAS UNI",
             descripcion:"Conectividad y redes IP, Redes inalámbricas."
-        }
+        },
+        {
+            tiempo:"Agosto 2020",
+            titulo:"UNIVERSIDAD TECNOLÓGICA DEL PERÚ",
+            descripcion:" Bachiller en Ingeniería de Sistemas e Informática."
+        },
+       
         
         
         ])
