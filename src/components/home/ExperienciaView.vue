@@ -92,7 +92,7 @@ const experiencias =reactive([
 
 {titulo:"MÉDICOS SALUD",
 tiempo:"08 de Enero ,2020 hasta 08 de Abril,2020",
-trabajo:"Soporte técnico",
+trabajo:"Asistente de sistemas",
 imagen:"/img/medicos.png"
 
 },
