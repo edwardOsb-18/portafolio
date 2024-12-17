@@ -3,7 +3,7 @@
     <div class="titulo">
         
         <h1 class="titulo__nombre">Hola,soy edward</h1>
-        <span class="titulo__disponibilidad"><a href="/img/edward_santamariaB.pdf" download>CV</a></span>
+        <span class="titulo__disponibilidad"><a href="/img/edward_santamariaB.pdf" download>Descargar CV</a></span>
     </div>
    </template>
     
